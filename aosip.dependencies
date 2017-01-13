@@ -1,0 +1,38 @@
+[
+ {
+   "remote":      "github",
+   "repository" : "ssawrav/Xiaomi_Kernel_OpenSource",
+   "target_path": "kernel/wingtech/msm8916",
+   "branch":      "ik-5.0"
+ },
+ {
+   "remote":      "laos",
+   "repository" : "android_hardware_qcom_audio",
+   "target_path": "hardware/qcom/audio-caf/msm8916",
+   "branch"     : "cm-14.1-caf-8916"
+ },
+ {
+   "remote":      "laos",
+   "repository" : "android_hardware_qcom_media",
+   "target_path": "hardware/qcom/media-caf/msm8916",
+   "branch"     : "cm-14.1-caf-8916"
+ },
+ {
+   "remote":      "laos",
+   "repository" : "android_hardware_qcom_display",
+   "target_path": "hardware/qcom/display-caf/msm8916",
+   "branch"     : "cm-14.1-caf-8916"
+ },
+ {
+   "remote":      "github",
+   "repository" : "TheMuppets/proprietary_vendor_qcom_binaries",
+   "target_path": "vendor/qcom/binaries",
+   "branch"     : "cm-14.1"
+ },
+ {
+   "remote":      "github"
+   "repository" : "ssawrav/proprietary_vendor_wingtech-N",
+   "target_path": "vendor/wingtech",
+   "branch"     : "ims"
+ }
+]

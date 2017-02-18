@@ -1,6 +1,6 @@
 [
  {
-   "repository" : "ssawrav/Xiaomi_Kernel_OpenSource",
+   "repository" : "dirtyredmi2/kernel",
    "target_path": "kernel/wingtech/msm8916",
    "branch":      "test"
  },

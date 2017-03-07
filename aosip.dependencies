@@ -1,8 +1,8 @@
 [
  {
-   "repository" : "dirtyredmi2/kernel",
+   "repository" : "dirtyredmi2/android_kernel_wingtech_msm8916",
    "target_path": "kernel/wingtech/msm8916",
-   "branch":      "test"
+   "branch":      "ik-6.0"
  },
  {
    "remote":      "laos",
@@ -23,7 +23,7 @@
    "branch"     : "cm-14.1-caf-8916"
  },
  {
-   "repository" : "TheMuppets/proprietary_vendor_qcom_binaries",
+   "repository" : "ssawrav/proprietary_vendor_qcom_binaries",
    "target_path": "vendor/qcom/binaries",
    "branch"     : "cm-14.1"
  },

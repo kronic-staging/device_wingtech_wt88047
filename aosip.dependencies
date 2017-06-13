@@ -5,13 +5,13 @@
    "branch":      "stable"
  },
  {
-   "repository" : "ssawrav/proprietary_vendor_qcom_binaries",
-   "target_path": "vendor/qcom/binaries",
+   "repository" : "LineageOS/android_external_sony_boringssl-compat",
+   "target_path": "external/boringssl-compat",
    "branch"     : "cm-14.1"
  },
  {
-   "repository" : "ssawrav/proprietary_vendor_wingtech-N",
+   "repository" : "ssawrav/vendor_wingtech",
    "target_path": "vendor/wingtech",
-   "branch"     : "ims"
+   "branch"     : "n7.1"
  }
 ]
